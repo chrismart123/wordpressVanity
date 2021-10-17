@@ -1,0 +1,81 @@
+html,
+body {
+    background-color: #e3dfdf;
+    /* background-color: red!important; */
+}
+a{
+    text-decoration: none!important;
+    color:grey;
+}
+.wrapper {
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+}
+h2 {
+    font-family: sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+span{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+    padding:5px 5px 20px;
+}
+.carousel {
+    width: 90%;
+    margin: 0px auto;
+}
+.slick-slide {
+    margin: 10px;
+}
+.slick-slide img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+.wrapper .slick-dots li button:before {
+    font-size: 20px;
+    color: white;
+}
+
+.myCustomFeature{
+    background-color: #319699;
+    padding: 20px;
+}
+
+.myCustomFeature button {
+    background-color: none!important;
+}
+
+.slick-arrow{
+    background-color: none!important;
+}
+
+.slick-slide img{
+    border: none!important;
+}
+
+.contentBox{
+    border: 1px solid #057376;
+    padding: 2px;
+    background: #057376;
+}
+
+.contentBox h2{
+    padding:20px;
+    text-align: left;
+    height:110px;
+    overflow-y: hidden;
+    line-height: inherit;
+}
+
+.contentBox span{
+    padding:20px;
+    display: block;
+    text-align: left;
+}
+
+.slick-slide img{
+    object-fit: cover;
+}
