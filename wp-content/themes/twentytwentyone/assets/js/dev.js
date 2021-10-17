@@ -82,7 +82,6 @@ if (classCustomExist.length > 0) {
         });
     }
     
-    
 }
 
 
